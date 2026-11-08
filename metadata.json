@@ -1,6 +1,0 @@
-{
-  "name": "Organiza Bolso",
-  "description": "Sistema de controle financeiro com gestão de transações, regras de categorização, importação de extratos e métricas.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

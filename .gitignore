@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+# AI Studio & Sandbox
+.aistudio/
+metadata.json
