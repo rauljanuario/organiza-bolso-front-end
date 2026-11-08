@@ -5,7 +5,7 @@ coverage/
 .DS_Store
 *.log
 .env*
-!.env.example
+.env.example
 # AI Studio & Sandbox
 .aistudio/
 metadata.json
